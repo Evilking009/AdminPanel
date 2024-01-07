@@ -12,7 +12,7 @@ Basic Admin Panel created using React JS &amp; ReCharts
 - Material Icons
 
 # Live Site
-- 
+- https://adminpanelmk.netlify.app/
 
 # Screenshots
 ![1](https://github.com/Evilking009/AdminPanel/assets/4027728/4c275c25-7292-4b0c-8591-7151f03eb1e0)
